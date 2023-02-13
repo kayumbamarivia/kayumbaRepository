@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "package": "^1.0.1"
-  }
+  },
+  "name": "simplecalculatorsum",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayumbamarivia/kayumbaRepository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayumbamarivia/kayumbaRepository/issues"
+  },
+  "homepage": "https://github.com/kayumbamarivia/kayumbaRepository#readme",
+  "description": ""
 }

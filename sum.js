@@ -19,3 +19,8 @@ function multiplyNumbers(arr){
       return product;
 }
 console.log(multiplyNumbers([3,4,5,6,2]))
+
+module.exports = {
+    addNumbers,
+    multiplyNumbers
+}
